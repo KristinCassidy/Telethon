@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("/assets/images/Background.jpg");
+    background-position: top;
+    background-size: cover;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-header {
+    text-align: center;
+    color: aquamarine;
+    text-shadow: 2px 3px rebeccapurple;
+    font-family: monospace;
+    font-weight: lighter;
+    padding: 30px;
+    font-size: 30px;
+}
