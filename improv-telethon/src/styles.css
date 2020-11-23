@@ -14,3 +14,23 @@ body {
     padding: 30px;
     font-size: 30px;
 }
+
+tr {
+    padding: 30px;
+}
+
+td {
+    padding: 15px;
+    height: 40px;
+    width: 100px;
+}
+
+a {
+    color: aquamarine;
+}
+
+.home-menu {
+    width: 1000px;
+    margin: auto;
+    padding: 50px;
+}
