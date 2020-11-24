@@ -1,0 +1,27 @@
+#timeChart {
+    background-color: rgba(0, 0, 0, 0.678);
+    border: solid whitesmoke;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 100px;
+    font-size: 16px;
+    text-align: center;
+    width: 500px;
+    color: whitesmoke;
+}
+
+#box {
+    margin: auto;
+    padding: 15px;
+    border: 1px solid whitesmoke;
+    background-color: rgba(0, 0, 0, 0.425);
+}
+
+.music {
+    color: rgb(170, 85, 255);
+}
+
+.improv {
+    color: rgb(255, 255, 255);
+}
+

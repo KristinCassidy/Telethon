@@ -1,10 +1,13 @@
-body {
-    background-image: url("/assets/images/Background.jpg");
-    background-position: top;
+.bg {
+    background-image: url("/assets/images/background.jpg");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
+
 .main-header {
     text-align: center;
     color: aquamarine;
@@ -15,22 +18,19 @@ body {
     font-size: 30px;
 }
 
-tr {
-    padding: 30px;
-}
-
-td {
+.page-header {
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 2px 3px rgb(88, 88, 88);
+    font-family: monospace;
+    font-weight: lighter;
     padding: 15px;
-    height: 40px;
+    font-size: 24px;
+}
+
+.sponsor {
     width: 100px;
+    text-shadow: 2px 2px whitesmoke;
+
 }
 
-a {
-    color: aquamarine;
-}
-
-.home-menu {
-    width: 1000px;
-    margin: auto;
-    padding: 50px;
-}
