@@ -1,24 +1,21 @@
 
 .home-menu {
-    padding: 50px;
-    display: flexbox;
-    flex-shrink: 2 ;
-    flex-basis: 300px;
+    padding: 0 50px 50px 50px;
+    margin: auto;
+    background-image: url("/assets/images/cube-background.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border-collapse: collapse;
 }
 
 .nav-item {
-    border: solid;
+    border: 1px solid;
     text-align: center;
-}
-
-tr {
-    padding: 30px;
-}
-
-td {
-    padding: 15px;
-}
-
-a {
     color: aquamarine;
+    padding: 15px;
+    background-image: url("/assets/images/vhs-overlay.jpg");
+    min-width: 100px;
 }
+
+

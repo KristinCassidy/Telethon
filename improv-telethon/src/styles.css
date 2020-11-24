@@ -4,7 +4,6 @@
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: white;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -20,17 +19,15 @@
 
 .page-header {
     text-align: center;
-    color: whitesmoke;
-    text-shadow: 2px 3px rgb(88, 88, 88);
     font-family: monospace;
     font-weight: lighter;
+    color: whitesmoke;
+    text-shadow: 2px 3px rgb(66, 66, 66);
     padding: 15px;
     font-size: 24px;
 }
 
-.sponsor {
-    width: 100px;
-    text-shadow: 2px 2px whitesmoke;
-
+a {
+    color: aqua;
 }
 
